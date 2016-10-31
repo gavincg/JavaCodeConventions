@@ -1,0 +1,19 @@
+
+
+这部分列出了常用的文件名及其后缀。
+
+2.1 文件后缀(File Suffixes)
+
+Java程序使用下列文件后缀：
+
+文件类别	      文件后缀
+Java源文件:	    .java
+Java字节码文件:	.class
+
+2.2 常用文件名(Common File Names)
+
+常用的文件名包括：
+
+文件名	        用途
+GNUmakefile:	makefiles的首选文件名。我们采用gnumake来创建（build）软件。
+README:	      概述特定目录下所含内容的文件的首选文件名
